@@ -20,7 +20,7 @@ export const Navbar = () => (
             asChild
           >
             <a
-              href="https://github.com/yourusername/js-execution-visualizer"
+              href="https://github.com/vinayak20130/js-visualizer"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2"
